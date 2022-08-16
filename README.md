@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning #Django<br><br>- 📫 How to reach me : anukulbanjade@gmail.com<br>
+- 🌱 I’m currently learning <h1>Django</h1><br><br>- 📫 How to reach me : anukulbanjade@gmail.com<br>
 
 
 ## 🌐 Socials:
