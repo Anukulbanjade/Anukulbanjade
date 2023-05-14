@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="250px"/>
+<img src="https://meraj-create-random-meme.pages.dev/" width="250px"/>
 
 ---
 
