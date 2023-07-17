@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://meraj-create-random-meme.pages.dev/" width="500px"/>
+<img src="http://i.imgflip.com/1bij.jpg" width="500px"/>
 
 ---
 
