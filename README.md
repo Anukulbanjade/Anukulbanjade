@@ -20,8 +20,5 @@
 ### ✍️ Quote for You
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="http://i.imgflip.com/1bij.jpg" width="500px"/>
-
----
+###  THE END
 
