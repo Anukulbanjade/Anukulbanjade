@@ -17,11 +17,11 @@
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for You
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://meraj-create-random-meme.pages.dev/" width="250px"/>
+<img src="https://meraj-create-random-meme.pages.dev/" width="500px"/>
 
 ---
 
