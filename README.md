@@ -19,8 +19,8 @@
 
 ### ✍️ Quote for You
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-<div style="text-align: center;">
-  <p style="position: fixed; bottom: 0; width: 100%;">THE END</p>
-</div>
+
+
+#  <center><b>THE END</b></center>
 
 
