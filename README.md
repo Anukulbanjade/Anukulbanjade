@@ -20,5 +20,5 @@
 ### ✍️ Quote for You
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-###  THE END
+#                                                                              THE END
 
