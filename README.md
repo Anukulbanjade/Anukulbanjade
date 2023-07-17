@@ -21,6 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-#  <center><b>THE END</b></center>
+#                                                                  THE END
 
 
