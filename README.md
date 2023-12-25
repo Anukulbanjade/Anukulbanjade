@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anukul.ab" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/anukulbanjade/" target="_blank">
-    <img align="center" src="http://www.w3.org/2000/svg" alt="LinkedIn" height="30" width="40" style="color: blue;" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40" style="color: blue;" />
   </a>
 </p>
 
