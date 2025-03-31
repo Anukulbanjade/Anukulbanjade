@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning <b>Python</b> and AWS for the Solution Architect Associate certification<br><br>- 📫 How to reach me: anukulbanjade@gmail.com<br>
+- 🌱 <b>Hello Welcome <br>
 
 ## 🌐 Socials:
 <p align="left">
